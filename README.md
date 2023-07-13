@@ -33,7 +33,8 @@
 
 
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&theme=tokyonight">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&theme=tokyonight"> -->
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&layout=compact&hide_title=1&card_width=300&theme=gotham" alt="Top language used in my repos" />
 </p>
 
 <br>
