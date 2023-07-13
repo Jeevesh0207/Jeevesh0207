@@ -37,8 +37,9 @@
 </p>
 
 <br>
-### EDUCATION  
 
+
+### EDUCATION
 [<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/42e12c05-e053-407a-a114-35a5e341ecd3?raw=true"/>](https://www.iiitbh.ac.in/)
 
 **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY BHAGALPUR** 
