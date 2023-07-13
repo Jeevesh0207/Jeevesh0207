@@ -1,4 +1,5 @@
-
+![](https://visitor-badge.laobi.icu/badge?page_id=Jeevesh0207.Jeevesh0207)
+[![Github](https://img.shields.io/github/followers/Jeevesh0207?label=Follow&style=social)](https://github.com/Jeevesh0207)
 
 <p align=center>
   <img alt="C" width=500px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/958c140b-e1d9-4253-91a6-191c3491f251?style=flat-square&logo=react&logoColor=white" />
@@ -29,8 +30,13 @@
 
 <br/>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeevesh0207&show_icons=true&theme=gotham&hide=stars,issues" alt="Jeevesh0207" />
+
+
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&theme=tokyonight">
+</p>
+
 <br>
-  
 ### EDUCATION  
 
 [<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/42e12c05-e053-407a-a114-35a5e341ecd3?raw=true"/>](https://www.iiitbh.ac.in/)
