@@ -50,7 +50,7 @@
 **INDIAN INSTITUTE OF INFORMATION TECHNOLOGY BHAGALPUR** 
 [**IITB**](https://www.iiitbh.ac.in/) \
 • B.Tech in Computer Science and Engineering (2021-25) \
-• GPA - 7.96 
+• GPA - 8.01 
 
 <br>
 
