@@ -68,7 +68,7 @@
 
 ### PROJECTS  
 
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/462519e6-b127-4480-b605-84d9c9826ada?raw=true"/>](https://github.com/Jeevesh0207/Melody_Music_Web_App)
+[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Melody_Music_Web_App/blob/main/Web/frontend/src/img/favicon.png"/>](https://github.com/Jeevesh0207/Melody_Music_Web_App)
 
 **Melody Music (App + Web)** 
 [**CodeLink**](https://github.com/Jeevesh0207/Melody_Music_Web_App) \
@@ -77,17 +77,17 @@
 • Developed a responsive React UI, enabling seamless song exploration across devices and increasing user engagement.\
 • Created robust Express.js APIs for user management and song retrieval, optimizing data access and user interaction.\
 • Designed efficient MongoDB schemas for data storage, improving data accessibility and retrieval speed.\
-• Successfully deployed the application with secure endpoints and HTTPS, guaranteeing user information security and a reliable user experience.\
+• Successfully deployed the application with secure endpoints and HTTPS, guaranteeing user information security and a reliable user experience.
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/89845298-89d2-41ac-a97b-a78012e6a90a?raw=true"/>](https://github.com/Jeevesh0207/ytdlfrontend)
+[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/ytdlfrontend/blob/main/Screenshot/youtube.png"/>](https://github.com/Jeevesh0207/ytdlfrontend)
 **Youtube Video Downloader** 
 [**CodeLink**](https://github.com/Jeevesh0207/ytdlfrontend)\
 • Languages & Technologies: `ReactJS`, `NodeJS`, `Express.js`, `Socket.io` \
 • ytdl-core extracts videos and audios from YouTube.\
 • ffmpeg-static and child_process merge audios and videos.\
-• fluent-ffmpeg stores videos in internal memory and tracks load progress. • Socket.io provides real-time download feedback to the frontend.\
+• fluent-ffmpeg stores videos in internal memory and tracks load progress. • Socket.io provides real-time download feedback to the frontend.
 
 
 
