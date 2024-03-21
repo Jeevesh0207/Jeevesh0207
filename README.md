@@ -8,7 +8,7 @@
 
 - 🎗️ I am highly skilled and motivated web developer and competitive programmer with a strong passion for creating innovative and user-friendly web solutions. With a solid foundation in computer science and a diverse set of technical skills
 - 🎖️ My Skills <br><br>
-  🏅 C/C++ | 🏅 HTML | 🏅 CSS | 🏅 JavaScript | 🏅 ReactJs | 🏅 NodeJs | 🏅 ExpressJs | 🏅 MongoDB | 🏅 Git
+  🏅 C/C++ | 🏅 HTML | 🏅 CSS | 🏅 JavaScript | 🏅 ReactJs | 🏅 NodeJs | 🏅 ExpressJs | 🏅 MongoDB | 🏅 Git | 🏅 Redux | 🏅 Redis | 🏅 Docker | 🏅 GraphQL
   <br><br>
 
 
@@ -60,54 +60,34 @@
 **LETSGROWMORE** 
 [**LGM**](https://letsgrowmore.in/) \
 • Web Developer Intern (June 2023 - July 2023) \
-• Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `React` 
+• Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `React`, `NodeJS`,`Express.js`
+• Built 4+ feature-rich web applications using HTML, CSS, JavaScript, and React libraries, increasing development efficiency by 60% through Agile methodologies.
 
 <br>
 
 
 ### PROJECTS  
 
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/462519e6-b127-4480-b605-84d9c9826ada?raw=true"/>](https://github.com/Jeevesh0207/YoutubeVideoDown)
+[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/462519e6-b127-4480-b605-84d9c9826ada?raw=true"/>](https://github.com/Jeevesh0207/Melody_Music_Web_App)
 
-**YOUTUBE VIDEO DOWNLOADER** 
-[**CodeLink**](https://github.com/Jeevesh0207/YoutubeVideoDown) \
-• Languages & Technologies: `Node`, `JavaScript`\
-• Used ffmpeg-static, fluent-ffmpeg, ytdl-core, and child_process modules. 
-
-<br>
-
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/89845298-89d2-41ac-a97b-a78012e6a90a?raw=true"/>](https://cozy-croquembouche-bfc01d.netlify.app)
-**ECOMMERCE WEBSITE** 
-[**CodeLink**](https://github.com/Jeevesh0207/EcommerceWeb) | [**LiveLink**](https://cozy-croquembouche-bfc01d.netlify.app)\
-• Languages & Technologies: `React`, `React Router`, `Css`, `JavaScript` \
-• React is used for building interactive user interfaces and web applications quickly and efficiently.\
-• Utilizes useState, useEffect, Hooks, and useContext to fetch and update data.
+**Melody Music (App + Web)** 
+[**CodeLink**](https://github.com/Jeevesh0207/Melody_Music_Web_App) \
+• Languages & Technologies: `ReactJS`, `NodeJS`, `Express.js`, `MongoDB`, `API`, `React Native`\
+• Implemented secure session-based login, ensuring user data protection and trust.\
+• Developed a responsive React UI, enabling seamless song exploration across devices and increasing user engagement.\
+• Created robust Express.js APIs for user management and song retrieval, optimizing data access and user interaction.\
+• Designed efficient MongoDB schemas for data storage, improving data accessibility and retrieval speed.\
+• Successfully deployed the application with secure endpoints and HTTPS, guaranteeing user information security and a reliable user experience.\
 
 <br>
 
+[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/89845298-89d2-41ac-a97b-a78012e6a90a?raw=true"/>](https://github.com/Jeevesh0207/ytdlfrontend)
+**Youtube Video Downloader** 
+[**CodeLink**](https://github.com/Jeevesh0207/ytdlfrontend)\
+• Languages & Technologies: `ReactJS`, `NodeJS`, `Express.js`, `Socket.io` \
+• ytdl-core extracts videos and audios from YouTube.\
+• ffmpeg-static and child_process merge audios and videos.\
+• fluent-ffmpeg stores videos in internal memory and tracks load progress. • Socket.io provides real-time download feedback to the frontend.\
 
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/2b775dc1-0aac-431e-ae5f-3aa7e4ee0ce3?raw=true"/>](https://jeevesh-netflix.netlify.app)
-**NETFLIX CLONE** 
-[**CodeLink**](https://github.com/Jeevesh0207/Netflix) | [**LiveLink**](https://jeevesh-netflix.netlify.app)\
-• Languages & Technologies: `HTML`, `Css`, `JavaScript`, `SwiperJs` \
-• HTML and CSS are used for the user interface.\
-• Swiper.js is used for creating a responsive slider.
-
-<br>
-
-
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/aa64c5dd-62d5-47be-b7e7-83c51efa3743?raw=true"/>](https://weather-react-jeevesh.netlify.app)
-**WEATHER REPORT** 
-[**CodeLink**](https://github.com/Jeevesh0207/WeatherReact) | [**LiveLink**](https://weather-react-jeevesh.netlify.app)\
-• Languages & Technologies: `React`, `Css`, `JavaScript`, `API` \
-• The website is an API-based weather reporting platform that utilizes Axios to fetch the data.\
-
-
-<br>
-
-
-
-
-<br/>
 
 
