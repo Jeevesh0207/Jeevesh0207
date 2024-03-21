@@ -55,7 +55,7 @@
 <br>
 
 ### EXPERIENCE
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/b3d18af9-27d5-4a9a-b5c0-87bdf3b13b31?raw=true"/>](https://www.iiitbh.ac.in/)
+[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/b3d18af9-27d5-4a9a-b5c0-87bdf3b13b31?raw=true"/>](https://letsgrowmore.in/)
 
 **LETSGROWMORE** 
 [**LGM**](https://letsgrowmore.in/) \
