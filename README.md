@@ -6,7 +6,7 @@
   
 </p>
 
-- 🎗️ I am highly skilled and motivated web developer and competitive programmer with a strong passion for creating innovative and user-friendly web solutions. With a solid foundation in computer science and a diverse set of technical skills
+- 🎗️ A highly skilled and motivated web developer and competitive programmer with a strong passion for creating innovative and user- friendly web solutions. Proven success in developing 5+ web applications, 2 mobile applications and follow agile development methodologies.
 - 🎖️ My Skills <br><br>
   🏅 C/C++ | 🏅 HTML | 🏅 CSS | 🏅 JavaScript | 🏅 ReactJs | 🏅 NodeJs | 🏅 ExpressJs | 🏅 MongoDB | 🏅 Git | 🏅 Redux | 🏅 Redis | 🏅 Docker | 🏅 GraphQL
   <br><br>
