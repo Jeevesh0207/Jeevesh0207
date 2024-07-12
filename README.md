@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Jeevesh0207&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
 ---
-<a href="https://visitcount.itsvg.in" >
-  <img src="https://visitcount.itsvg.in/api?id=Jeevesh0207&label=Profile%20Views&color=12&icon=6&pretty=true" />
-</a>
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Jeevesh0207.Jeevesh0207)
+[![Github](https://img.shields.io/github/followers/Jeevesh0207?label=Follow&style=social)](https://github.com/Jeevesh0207)
