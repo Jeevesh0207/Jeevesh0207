@@ -1,93 +1,27 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=Jeevesh0207.Jeevesh0207)
-[![Github](https://img.shields.io/github/followers/Jeevesh0207?label=Follow&style=social)](https://github.com/Jeevesh0207)
-
-<p align=center>
-  <img alt="C" width=500px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/958c140b-e1d9-4253-91a6-191c3491f251?style=flat-square&logo=react&logoColor=white" />
-  
-</p>
-
-- 🎗️ A highly skilled and motivated web developer and competitive programmer with a strong passion for creating innovative and user- friendly web solutions. Proven success in developing 5+ web applications, 2 mobile applications and follow agile development methodologies.
-- 🎖️ My Skills <br><br>
-  🏅 C/C++ | 🏅 HTML | 🏅 CSS | 🏅 JavaScript | 🏅 ReactJs | 🏅 NodeJs | 🏅 ExpressJs | 🏅 MongoDB | 🏅 Git | 🏅 Redux | 🏅 Redis | 🏅 Docker | 🏅 GraphQL
-  <br><br>
+## 💫 About Me:
+🔭 I’m currently working on:<br>- Developing cutting-edge web applications with ReactJS and NodeJS to create seamless user experiences.<br><br>👯 I’m looking to collaborate on:<br>- Exciting projects involving AI and image processing to push the boundaries of web technologies.<br><br>🤝 I’m looking for help with:<br>- Exploring advanced techniques in AI-based image enhancement to deliver visually stunning results.<br><br>🌱 I’m currently learning:<br>- Deepening my expertise in Agile development methodologies to boost team efficiency and project success.<br><br>💬 Ask me about:<br>- Crafting responsive, user-friendly web applications with the latest front-end technologies.<br>- Implementing robust back-end solutions to ensure secure and efficient data management.<br><br>⚡ Fun fact:<br>- I've consistently ranked in the top 1% on coding platforms like Codeforces and LeetCode, showcasing my commitment to continuous learning and coding excellence.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jeev.esh_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevesh-rai-b678a0241) 
 
+## 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=flat&logo=apollo-graphql) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=flat&logo=radix-ui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jeevesh0207&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jeevesh0207&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Jeevesh0207&theme=graywhite&no-frame=false&no-bg=false&margin-w=4)
 
-<p align=center >
-  <img alt="C" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/69adee5a-8c29-4c57-9928-f42921ca5cb8?style=flat-square&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img alt="C++" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/2bf8ba6a-76c5-48fa-950e-1cc7ffa17ece?style=flat-square&logo=react&logoColor=white"  />&nbsp;&nbsp;
-  <img alt="HTML" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/34742ded-c054-419e-ac8e-b8bdcd19d67e?style=flat-square&logo=react&logoColor=white"  />&nbsp;&nbsp;
-  <img alt="CSS" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/23294a83-5d5c-4460-b14d-1225d01e8124?style=flat-square&logo=react&logoColor=white"  />&nbsp;&nbsp;
-  <img alt="JS" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/d8dbcba1-399a-4578-aac9-02a1b9be8b9e?style=flat-square&logo=react&logoColor=white"  />&nbsp;&nbsp;
-  <img alt="React" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/33191deb-823e-4307-b697-599fe97108ca?style=flat-square&logo=react&logoColor=white"  />&nbsp;&nbsp;
-  <img alt="Node" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/bdf85988-3867-45bb-836f-02483128db8e?style=flat-square&logo=react&logoColor=white"  />&nbsp;
-  <img alt="Mongo" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/cfe89dc1-bd96-4712-977e-b4b7a99b2437?style=flat-square&logo=react&logoColor=white"  />
-  <img alt="Git" width=35px  src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/7f1d17b6-f88d-49bf-8698-e0b1d0f69c2b?style=flat-square&logo=react&logoColor=white"  />
-</p>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Jeevesh0207&limit=5&theme=graywhite&combine_all_yearly_contributions=true)
 
-<br/>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeevesh0207&show_icons=true&theme=gotham&hide=stars,issues" alt="Jeevesh0207" />
+---
+[![](https://visitcount.itsvg.in/api?id=Jeevesh0207&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align=center>
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&theme=tokyonight"> -->
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevesh0207&layout=compact&hide_title=1&card_width=300&theme=gotham" alt="Top language used in my repos" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeevesh0207&theme=gotham" alt="Jeevesh0207" />
-</p>
-
-<br>
-
-
-### EDUCATION
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/42e12c05-e053-407a-a114-35a5e341ecd3?raw=true"/>](https://www.iiitbh.ac.in/)
-
-**INDIAN INSTITUTE OF INFORMATION TECHNOLOGY BHAGALPUR** 
-[**IITB**](https://www.iiitbh.ac.in/) \
-• B.Tech in Computer Science and Engineering (2021-25) \
-• GPA - 8.01 
-
-<br>
-
-### EXPERIENCE
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Jeevesh0207/assets/132649861/b3d18af9-27d5-4a9a-b5c0-87bdf3b13b31?raw=true"/>](https://letsgrowmore.in/)
-
-**LETSGROWMORE** 
-[**LGM**](https://letsgrowmore.in/) \
-• Web Developer Intern (June 2023 - July 2023) \
-• Languages & Technologies: `HTML`, `CSS`, `JavaScript`, `React`, `NodeJS`,`Express.js`
-• Built 4+ feature-rich web applications using HTML, CSS, JavaScript, and React libraries, increasing development efficiency by 60% through Agile methodologies.
-
-<br>
-
-
-### PROJECTS  
-
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/Melody_Music_Web_App/blob/main/Web/frontend/src/img/favicon.png"/>](https://github.com/Jeevesh0207/Melody_Music_Web_App)
-
-**Melody Music (App + Web)** 
-[**CodeLink**](https://github.com/Jeevesh0207/Melody_Music_Web_App) \
-• Languages & Technologies: `ReactJS`, `NodeJS`, `Express.js`, `MongoDB`, `API`, `React Native`\
-• Implemented secure session-based login, ensuring user data protection and trust.\
-• Developed a responsive React UI, enabling seamless song exploration across devices and increasing user engagement.\
-• Created robust Express.js APIs for user management and song retrieval, optimizing data access and user interaction.\
-• Designed efficient MongoDB schemas for data storage, improving data accessibility and retrieval speed.\
-• Successfully deployed the application with secure endpoints and HTTPS, guaranteeing user information security and a reliable user experience.
-
-<br>
-
-[<img align="left" height="94px" width="94px" alt="IITBhagalpur" src="https://github.com/Jeevesh0207/ytdlfrontend/blob/main/Screenshot/youtube.png"/>](https://github.com/Jeevesh0207/ytdlfrontend)
-**Youtube Video Downloader** 
-[**CodeLink**](https://github.com/Jeevesh0207/ytdlfrontend)\
-• Languages & Technologies: `ReactJS`, `NodeJS`, `Express.js`, `Socket.io` \
-• ytdl-core extracts videos and audios from YouTube.\
-• ffmpeg-static and child_process merge audios and videos.\
-• fluent-ffmpeg stores videos in internal memory and tracks load progress. • Socket.io provides real-time download feedback to the frontend.
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
